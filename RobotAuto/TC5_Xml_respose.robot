@@ -1,0 +1,70 @@
+Simple format:
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+</note>
+
+<CATALOG>
+<PLANT>
+<COMMON>Bloodroot</COMMON>
+<BOTANICAL>Sanguinaria canadensis</BOTANICAL>
+<ZONE>4</ZONE>
+<LIGHT>Mostly Shady</LIGHT>
+<PRICE>$2.44</PRICE>
+<AVAILABILITY>031599</AVAILABILITY>
+</PLANT>
+<PLANT>
+<COMMON>Columbine</COMMON>
+<BOTANICAL>Aquilegia canadensis</BOTANICAL>
+<ZONE>3</ZONE>
+<LIGHT>Mostly Shady</LIGHT>
+<PRICE>$9.37</PRICE>
+<AVAILABILITY>030699</AVAILABILITY>
+</PLANT>
+<PLANT>
+<COMMON>Marsh Marigold</COMMON>
+<BOTANICAL>Caltha palustris</BOTANICAL>
+<ZONE>4</ZONE>
+<LIGHT>Mostly Sunny</LIGHT>
+<PRICE>$6.81</PRICE>
+<AVAILABILITY>051799</AVAILABILITY>
+</PLANT>
+<PLANT>
+<COMMON>Cowslip</COMMON>
+<BOTANICAL>Caltha palustris</BOTANICAL>
+<ZONE>4</ZONE>
+<LIGHT>Mostly Shady</LIGHT>
+<PRICE>$9.90</PRICE>
+<AVAILABILITY>030699</AVAILABILITY>
+</PLANT>
+</CATALOG>
+
+
+<CATALOG>
+<CD>
+<TITLE>Empire Burlesque</TITLE>
+<ARTIST>Bob Dylan</ARTIST>
+<COUNTRY>USA</COUNTRY>
+<COMPANY>Columbia</COMPANY>
+<PRICE>10.90</PRICE>
+<YEAR>1985</YEAR>
+</CD>
+<CD>
+<TITLE>Hide your heart</TITLE>
+<ARTIST>Bonnie Tyler</ARTIST>
+<COUNTRY>UK</COUNTRY>
+<COMPANY>CBS Records</COMPANY>
+<PRICE>9.90</PRICE>
+<YEAR>1988</YEAR>
+</CD>
+<CD>
+<TITLE>Greatest Hits</TITLE>
+<ARTIST>Dolly Parton</ARTIST>
+<COUNTRY>USA</COUNTRY>
+<COMPANY>RCA</COMPANY>
+<PRICE>9.90</PRICE>
+<YEAR>1982</YEAR>
+</CD>
+</CATALOG>

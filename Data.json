@@ -1,0 +1,23 @@
+{
+"Name":"John",
+"Age":"30",
+"Mob":"78979",
+"City":["Hyderabad","Mumbai","Bangalore"],
+"Address":
+            {
+              "Street":"XYZ",
+              "House#":"456",
+               "Number":[
+                        {
+                        "Mob":"Mob1",
+                        "Land":"Land1"
+                        },
+                        {
+                        "Mob":"Mob2",
+                        "Land":"Land2"
+                        }
+
+                        ]
+            }
+
+}
